@@ -67,7 +67,7 @@ import org.eclipse.jgit.util.RawParseUtils;
  * the name of the target reference.
  * <p>
  * Annotated tags also store the peeled object using a {@code GITLINK} entry
- * with the suffix <code>" ^"</code> (space carrot), for example
+ * with the suffix <code>" ^"</code> (space caret), for example
  * {@code "tags/v1.0"} stores the annotated tag object, while
  * <code>"tags/v1.0 ^"</code> stores the commit the tag annotates.
  * <p>
